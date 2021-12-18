@@ -1,0 +1,44 @@
+.bold {font-weight: bold;
+        color:ghostwhite;
+        background-color: black;
+}
+
+.common {
+    /*background-color:grey;
+    border: soli 2px white;*/
+    position: absolute;
+    
+}
+.header{
+    top: 5px;
+    left:6px;
+    right:5px;
+    height:160px;
+    text-align: left;
+    border-bottom: solid;
+    border-bottom-color: white;
+}
+.main{
+    top:170px;
+    bottom: 64px;
+    left:5px;
+    right:5px;
+    text-align:center;
+}
+
+.footer{
+    bottom:1px;
+    height:50px;
+    left:5px;
+    right: 5px;
+    font-size: 8px;
+    text-align: center;
+    position:fixed;
+    color:lightgray;
+    border-top: solid;
+    border-top-color: white;
+}
+li{
+    font-family:sans-serif;
+    font-weight: bold;
+}
